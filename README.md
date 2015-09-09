@@ -1,7 +1,7 @@
-openshift-jee-sample
+deploydock-jee-sample
 ====================
 
-A sample app to be deployed on openshift environments
+A sample app to be deployed on deploydock environments
 
-Note: to build this repository with maven you must specify "-Popenshift", eg "mvn clean package -Popenshift"
+Note: to build this repository with maven you must specify "-Pdeploydock", eg "mvn clean package -Pdeploydock"
 
